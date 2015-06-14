@@ -1,7 +1,7 @@
 package ro.common;
 
 /**
- * Created by tekin.omer on 5/27/2015.
+ * Created by diana. on 5/27/2015.
  */
 public class LogFile {
     private String fileName;
